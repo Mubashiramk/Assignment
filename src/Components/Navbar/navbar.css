@@ -1,0 +1,14 @@
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  color: black;
+}
+li {
+  margin-left: 10px;
+  list-style-type: none;
+}
+nav {
+  padding: 0px 20px 0px 20px;
+  border-bottom: 1px solid black;
+}

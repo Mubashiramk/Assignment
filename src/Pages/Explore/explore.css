@@ -1,0 +1,10 @@
+.explore {
+  width: 75vw;
+  margin: auto;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 15px;
+  padding: 10px;
+  height: 95vh;
+  overflow-y: scroll;
+}
